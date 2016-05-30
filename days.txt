@@ -1,0 +1,3 @@
+Queda {time} dias para vernos.
+Ya solo queda {time} dias para vernos!
+Que poquito ya! solo {time} diitas para vernos!
